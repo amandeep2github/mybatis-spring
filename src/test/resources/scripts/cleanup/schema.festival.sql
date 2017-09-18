@@ -1,0 +1,1 @@
+drop schema festival if exists;

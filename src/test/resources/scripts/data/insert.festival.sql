@@ -1,0 +1,1 @@
+insert into festival.festival values(1, 'Tech Week');
